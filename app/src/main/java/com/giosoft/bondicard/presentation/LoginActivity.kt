@@ -8,7 +8,7 @@ class LoginActivity : FullScreenBaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+
     }//onCreate()
 
     override fun getLayout(): Int {

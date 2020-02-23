@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fa_icon_sim_card">&#xf7c4;</string>
+    <string name="fa_icon_bus">&#xf207;</string>
+    <string name="fa_icon_ticket_añt">&#xf3ff;</string>
+    <string name="fa_icon_jedi">&#xf669;</string>
+</resources>

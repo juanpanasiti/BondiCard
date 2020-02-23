@@ -3,6 +3,8 @@ package com.giosoft.bondicard.presentation
 import android.os.Bundle
 import com.giosoft.bondicard.R
 import com.giosoft.bondicard.presentation.baseactivity.FullScreenBaseActivity
+import com.giosoft.bondicard.presentation.helpers.FontManager
+import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : FullScreenBaseActivity() {
 
